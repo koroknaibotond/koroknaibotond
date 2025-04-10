@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Botond Koroknai 👋
+
+I have a BSc in Physics with a specialization in Computational Physics, and I'm passionate about data science, machine learning, and building smart systems with real-world impact. 
+
+## 🚀 Tech Stack
+- 🔧 Languages: Python (3+ years during bsc), C++ (2 semesters), C (basics, 1 semester), currently learning C# 
+- ☁️ DevOps: Docker, GitHub Actions
+
+## 📈 GitHub Stats
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=koroknaibotond&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- [LinkedIn](https://linkedin.com/in/johndoe)
+
+
+
 
 <!--
 **koroknaibotond/koroknaibotond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
