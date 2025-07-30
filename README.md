@@ -1,6 +1,6 @@
 # Hi, I'm Botond Koroknai 👋
 
-I have a BSc in Physics with a specialization in Computational Physics, and I'm passionate about data science, machine learning, and building smart systems with real-world impact. 
+I have a BSc in Physics with a specialization in Computational Physics, and I'm passionate about working with data thorugh data analysis or data science
 
 ## 🚀 Tech Stack
 - 🔧 Languages: Python (3+ years during bsc), C++ (2 semesters), C (basics, 1 semester), currently learning SQL! 
