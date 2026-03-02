@@ -5,8 +5,6 @@ I have a BSc in Physics with a specialization in Computational Physics, and I'm 
 ## 🚀 Tech Stack
 - 🔧 Languages: Python (3+ years during bsc), C++ (2 semesters), C (basics, 1 semester), currently learning SQL! 
 
-## 📈 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=koroknaibotond&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/botond-koroknai-a8a5ba327/)
